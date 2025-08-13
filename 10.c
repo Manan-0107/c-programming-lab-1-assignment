@@ -5,6 +5,7 @@ int main() {
     printf("enter the dollar which you want to convert into pound");
     scanf("%f",&a);
     b=(a/48)*70;
-    printf("the amount in dollar %f",b);
+    printf("the amount in pound %f",b);
     return 0;
+
 }
