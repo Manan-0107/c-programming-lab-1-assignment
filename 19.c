@@ -5,7 +5,8 @@ int main() {
     scanf("%f",&r);
     
     a=(22*r/7)*r;
-    printf("the area of the rectangle with radius %f is %f\n",r,a);
+    printf("the area of the circle with radius %f is %f\n",r,a);
    
     return 0;
+
 }
